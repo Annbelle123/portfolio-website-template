@@ -1,5 +1,5 @@
 ---
-title: "Hi, I'm [Your Name Here]"
+title: "Hi, I'm Annabelle
 ---
 
 
@@ -14,13 +14,13 @@ I'm a [your profession or area of focus]. I specialize in transforming complex i
 
 ## About Me
 
-I hold a <span class="highlight">[Your Degree or Current Program]</span> from [Your Institution].
+I hold a <span class="highlight">[Bachelor's degree in Business Administration]</span> from [University of Oregon].
 
 
 
 ## Let's Connect
 
-You can [email me](mailto:you@example.com) or connect on [LinkedIn](https://www.linkedin.com/in/your-profile).
+You can [email me](mailto:annabelleelizabethh@gmail.com) or connect on [LinkedIn](www.linkedin.com/in/annabelle-p-736040190).
 
 ---
 
