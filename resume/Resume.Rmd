@@ -1,12 +1,12 @@
 ---
-name: First
-surname: Last
-position: "Your Role or Career Focus"
-phone: +1 (XXX) XXX-XXXX
+name: Annabelle
+surname: Petherbridge
+position: "Senior Financial Analyst"
+phone: +1 (971)-277-0758
 www: yourwebsite.com
-email: "you@example.com"
-github: your-github
-linkedin: your-linkedin
+email: "Annabelleelizabethh.com"
+github: Annbelle123
+linkedin: www.linkedin.com/in/annabelle-p-736040190
 date: "`r format(Sys.time(), '%B %Y')`"
 output: 
   vitae::latexcv:
@@ -37,7 +37,7 @@ library(tibble)
 
 # Professional Summary
 
-Motivated and detail-oriented marketing and analytics professional with a strong background in data interpretation, campaign strategy, and digital tools. Skilled in turning insights into action and communicating value across business teams.
+Analytical and results-driven finance professional with a Bachelor of Science in Finance and a minor in Economics from the University of Oregon. Currently serving as a Financial Analyst at HD Supply, with a strong track record in P&L management, forecasting, and cost analysis. Demonstrated ability to support cross-functional teams through data-driven insights and strategic recommendations. Previous experience includes roles in supply chain analysis and entrepreneurial ventures, showcasing a unique blend of corporate finance expertise and entrepreneurial acumen. Adept at leveraging Excel and financial tools to drive operational efficiency and cost savings. Passionate about advancing into financial planning and analysis leadership, with long-term goals in real estate investment and business development.
 
 # Technical Skills
 
