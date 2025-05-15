@@ -1,0 +1,31 @@
+[
+  {
+    "listing": "/financial-analytics.html",
+    "items": [
+      "/listings/01-Data-Exploration-and-Summaries.html",
+      "/listings/02-Order-Level-Forecasting.html",
+      "/listings/04-Actionable-Insights-On-Forecasting-Results.html",
+      "/listings/03-Sales-Level-Forecasting.html"
+    ]
+  },
+  {
+    "listing": "/financial-analytics.html",
+    "items": [
+      "/listings/05-social-media-engagement.html",
+      "/listings/04-funnel-attribution-model.html",
+      "/listings/03-customer-segmentation-clustering.html",
+      "/listings/02-seo-benchmarking-analysis.html",
+      "/listings/01-data-exploration-and-summaries.html"
+    ]
+  },
+  {
+    "listing": "/financial-analytics.html",
+    "items": [
+      "/listings/05-social-media-engagement.html",
+      "/listings/04-funnel-attribution-model.html",
+      "/listings/03-customer-segmentation-clustering.html",
+      "/listings/02-seo-benchmarking-analysis.html",
+      "/listings/01-data-exploration-and-summaries.html"
+    ]
+  }
+]

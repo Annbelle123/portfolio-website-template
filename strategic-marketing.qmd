@@ -2,59 +2,21 @@
 title: "Strategic Marketing"
 ---
 
-Below are selected projects that showcase my work in strategic marketing, campaign development, and brand management. These examples highlight how I apply leadership, data-informed decision making, and creative direction to drive marketing success.
+Below is a project that showcase my work in strategic marketing, campaign development, and brand management. The example I highlighted shows how I apply leadership, data-informed decision making, and creative direction to drive marketing success.
 
-## [Project Title 1: Strategic Campaign Planning]
+## Analyzing SEO Practices: Lululemon vs. Industry Competitors
 
-In this project, I led the development of a comprehensive marketing campaign for **[product, service, or initiative]**. From audience segmentation to messaging strategy, I managed the full lifecycle of the campaign, aligning it with business objectives and measurable KPIs.
+In this project, I conducted a competitive SEO analysis comparing Lululemon with key industry players including Vuori and Athleta. The goal was to evaluate how effectively each brand structures its website content for search engine visibility and user engagement.
 
-**Skills Demonstrated:**
+Using a reproducible R-based workflow, I scraped and analyzed key webpage types—such as Home, About, Sustainability, and Customer Service pages—to extract and compare title tags and heading structures. I then applied text mining techniques to identify high-frequency bi-grams and keyword patterns across each brand’s content.
 
-- **Marketing Strategy:** Defined objectives and tactics for maximum impact.
-- **Team Coordination:** Oversaw collaboration across creative, data, and channel teams.
-- **Performance Tracking:** Implemented real-time metrics and post-campaign analysis.
-- **Brand Positioning:** Ensured consistency across all touchpoints.
-
----
-
-## [Project Title 2: Brand Audit & Positioning]
-
-This initiative involved conducting a full brand audit for **[organization or brand]**, evaluating its current market perception, competitive landscape, and customer engagement. I synthesized insights into a refreshed brand strategy and visual identity recommendations.
+This analysis revealed how each brand prioritizes messaging, which terms dominate their SEO strategy, and where Lululemon may be underutilizing high-impact keywords. The findings were visualized through comparative bar charts and word clouds, and summarized in a dashboard-ready report.
 
 **Skills Demonstrated:**
 
-- **Brand Analysis:** Audited messaging, tone, and visual identity.
-- **Competitive Benchmarking:** Evaluated brand positioning within the market.
-- **Strategic Communication:** Developed new value propositions and storytelling elements.
-- **Stakeholder Presentation:** Delivered recommendations to senior leadership.
-
----
-
-## [Project Title 3: Product Launch Go-to-Market Plan]
-
-For the release of **[new product/service]**, I created a go-to-market (GTM) strategy from scratch. This included customer journey mapping, channel mix planning, and launch timeline coordination.
-
-**Skills Demonstrated:**
-
-- **Go-to-Market Strategy:** Developed a clear launch roadmap aligned with buyer needs.
-- **Integrated Marketing:** Orchestrated email, paid ads, social, and on-site promotions.
-- **Budget Management:** Allocated resources efficiently across tactics.
-- **Launch Optimization:** Tracked performance and refined tactics in real time.
-
-Below is an embedded demonstration of the interactive report:
+- **SEO Strategy & Competitive Benchmarking:** Identified keyword gaps and content structure differences across brands.
+- **Text Mining & Web Scraping:** Built a reproducible R pipeline to extract and analyze HTML content.
+- **Data Visualization:** Created comparative visuals to highlight SEO strengths and weaknesses.
+- **Strategic Recommendations:** Delivered actionable insights to improve Lululemon’s content targeting and search visibility.
 
 
-<iframe src="data/TRI SEO Comparison.html" width="100%" height="600px" style="border: none;"></iframe>
-
----
-
-## [Project Title 4: Client Consulting & Campaign Optimization]
-
-I collaborated with a client to assess and optimize their existing marketing efforts. Through audits, persona development, and campaign refinement, I helped improve ROI and audience engagement.
-
-**Skills Demonstrated:**
-
-- **Client Consulting:** Provided clear insights and strategic guidance.
-- **Persona Development:** Built target personas to guide messaging.
-- **Campaign Optimization:** Identified and addressed areas of underperformance.
-- **Data-Driven Adjustments:** Leveraged analytics to refine tactics.
