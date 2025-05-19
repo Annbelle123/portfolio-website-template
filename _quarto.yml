@@ -9,6 +9,8 @@ website:
         href: index.qmd
       - text: "Financial Analytics"
         href: financial-analytics.qmd
+      - text: "Projects"
+        href: Projects.qmd
       - text: "Résumé"
         href: resume.qmd
 
